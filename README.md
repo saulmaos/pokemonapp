@@ -1,5 +1,5 @@
 # Pokemon App con Jetpack Compose
-Una simple app para mostrar el uso de Jetpack Compose
+Una simple app para mostrar el uso de Jetpack Compose junto con LazyColumn, ConstraintLayout y degradados dinámicos
 
 En este repositorio encontrarás los ejemplos relacionados con la app de pokemon
 
